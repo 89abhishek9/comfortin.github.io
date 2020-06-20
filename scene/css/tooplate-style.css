@@ -302,7 +302,7 @@ a:hover, a:active, a:focus {
 
 .custom-navbar .navbar-nav li a:hover:after,
 .custom-navbar .nav li.active > a:after {
-  background: #ffffff;
+  background: #8fb300;
   color: #ffffff;
   width: 100%;
 }
