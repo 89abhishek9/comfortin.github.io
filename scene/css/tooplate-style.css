@@ -286,7 +286,7 @@ a:hover, a:active, a:focus {
 .custom-navbar .navbar-nav > li > a:hover,
 .custom-navbar .navbar-nav > li > a:focus {
   background-color: transparent;
-  color: #8fb300;
+  color: #ffffff;
 }
 
 .custom-navbar .navbar-nav li a:after {
